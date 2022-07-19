@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="www.linkdin.com/in/andre-jonas-pesce-romanoli/" target="_blank"><img src="https://img.icons8.com/ultraviolet/40/000000/linkedin-circled--v3.png"</a>
+<a href="https://www.linkedin.com/in/andre-jonas-pesce-romanoli/" target="_blank"><img src="https://img.icons8.com/ultraviolet/40/000000/linkedin-circled--v3.png"</a>
 </div>
 
 ### Main skills:
